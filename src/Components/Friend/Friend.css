@@ -1,0 +1,11 @@
+body, html {
+    margin: 0 50px;
+    color: dimgray;
+}
+
+.friend-container {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 300px;
+}
